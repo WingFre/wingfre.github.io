@@ -1,0 +1,8 @@
+title: Wingfre.GitHub.io
+description: 畅翼俱乐部主页
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
